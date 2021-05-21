@@ -1,5 +1,5 @@
 <?php
-    $cars = array("Volvo", "BMW", "Toyota");
+    $cars = array("Volvo", "BMWW", "Toyota");
     $arrlength = count($cars);
 
     for($x = 0; $x < $arrlength; $x++) {
